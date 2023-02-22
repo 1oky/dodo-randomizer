@@ -38,9 +38,10 @@ body {
 .pizza-card {
   margin: 40px 40px;
   padding: 20px 20px;
-  width: 300px;
+  width: 200px;
   height: 300px;
   border: 2px solid #ff6900;
+  align-items: center;
   border-radius: 10px;
   transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
   &:hover {
@@ -89,6 +90,14 @@ h1 {
     border-radius: 990px;
     width: 40px;
     height: 40px;
-  }
-  
+  }  
+}
+.card-container {
+  border: 1px solid #ff6900;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 40px;
+  margin-left: 40px;
+  justify-content: space-between;
+  border-radius: 10px;
 }

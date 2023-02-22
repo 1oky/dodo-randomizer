@@ -1,121 +1,122 @@
-[{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
-{
-  name: "",
-  imageUrl: "",
-  price:"",
-},
+[
+  {
+    "name": "Ветчина и сыр",
+    "imageUrl": "./images/DodoPizzaImages/vetchinasyr.webp",
+    "price":"389"
+  },
+  {
+    "name": "Сырная",
+    "imageUrl": "./images/DodoPizzaImages/syrnaya.webp",
+    "price":"299"
+  },
+  {
+    "name": "Пепперони фреш",
+    "imageUrl": "./images/DodoPizzaImages/pepperony.webp",
+    "price":"299"
+  },
+  {
+    "name": "Чоризо фреш",
+    "imageUrl": "./images/DodoPizzaImages/chorizefresh.webp",
+    "price":"299"
+  },
+  {
+    "name": "Додо Микс",
+    "imageUrl": "./images/DodoPizzaImages/dodomix.webp",
+    "price":"489"
+  },
+  {
+    "name": "Сырный цыпленок",
+    "imageUrl": "./images/DodoPizzaImages/syrnytseplenok.webp",
+    "price":"489"
+  },
+  {
+    "name": "Карбонара",
+    "imageUrl": "./images/DodoPizzaImages/karbonara.webp",
+    "price":"489"
+  },
+  {
+    "name": "Мясная",
+    "imageUrl": "./images/DodoPizzaImages/myasnaya.webp",
+    "price":"489"
+  },
+  {
+    "name": "Бургер-пицца",
+    "imageUrl": "./images/DodoPizzaImages/burgerpizza.webp",
+    "price":"439"
+  },
+  {
+    "name": "Песто",
+    "imageUrl": "./images/DodoPizzaImages/pesto.webp",
+    "price":"489"
+  },
+  {
+    "name": "Цыпленок барбекю",
+    "imageUrl": "./images/DodoPizzaImages/tsiplenokbarbekyu.webp",
+    "price":"539"
+  },
+  {
+    "name": "Додо",
+    "imageUrl": "./images/DodoPizzaImages/dodopizza.webp",
+    "price":"539"
+  },
+  {
+    "name": "Цыпленок карри",
+    "imageUrl": "./images/DodoPizzaImages/tsyplenokkarri.webp",
+    "price":"439"
+  },
+  {
+    "name": "Аррива!",
+    "imageUrl": "./images/DodoPizzaImages/arriva.webp",
+    "price":"439"
+  },
+  {
+    "name": "Четыре сыра",
+    "imageUrl": "./images/DodoPizzaImages/chetyresyra.webp",
+    "price":"489"
+  },
+  {
+    "name": "Цыпленок ранч",
+    "imageUrl": "./images/DodoPizzaImages/ranch.webp",
+    "price":"539"
+  },
+  {
+    "name": "Ветчина и грибы",
+    "imageUrl": "./images/DodoPizzaImages/vetchinagriby.webp",
+    "price":"389"
+  },
+  {
+    "name": "Маргарита",
+    "imageUrl": "./images/DodoPizzaImages/margarita.webp",
+    "price":"389"
+  },
+  {
+    "name": "Диабло",
+    "imageUrl": "./images/DodoPizzaImages/diablo.webp",
+    "price":"489"
+  },
+  {
+    "name": "Домашняя",
+    "imageUrl": "./images/DodoPizzaImages/domashnyaa.webp",
+    "price":"439"
+  },
+  {
+    "name": "Гавайская",
+    "imageUrl": "./images/DodoPizzaImages/hawaii.webp",
+    "price":"439"
+  },
+  {
+    "name": "Колбаски барбекю",
+    "imageUrl": "./images/DodoPizzaImages/kolbaskibarbekyu.webp",
+    "price":"439"
+  },
+  {
+    "name": "Овощи и грибы",
+    "imageUrl": "./images/DodoPizzaImages/ovoshiigriby.webp",
+    "price":"439"
+  },
+  {
+    "name": "Двойная пепперони",
+    "imageUrl": "./images/DodoPizzaImages/2pepperony.webp",
+    "price":"489"
+  },
 ]
