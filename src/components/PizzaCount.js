@@ -12,7 +12,6 @@ const PizzaCount = ({ countOfPizza, setCountOfPizza }) => {
       <SelectPizzaCount id={6} setActive={setCountOfPizza} activeCount={countOfPizza} />
       <SelectPizzaCount id={7} setActive={setCountOfPizza} activeCount={countOfPizza} />
       <SelectPizzaCount id={8} setActive={setCountOfPizza} activeCount={countOfPizza} />
-      <SelectPizzaCount id={9} setActive={setCountOfPizza} activeCount={countOfPizza} />
     </div>
   );
 };
