@@ -3,7 +3,7 @@
 В моменте когда не знаешь что хочешь
 Я предлагаю доверить свой выбор Рандому
 
-dodo-randomizer-git-main-1oky.vercel.app
+[Ссылка на проект](dodo-randomizer-git-main-1oky.vercel.app)
 
 Просто, вкусно, в стиле Додо
 
